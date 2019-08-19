@@ -1,0 +1,88 @@
+* {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  display: inline;
+  text-align: center;
+  display: inline-block;
+  border-color: #048eaa;
+  margin-right: 10px;
+
+}
+
+.navbar {
+  position: relative;
+  left: 800px;
+  bottom: 50px;
+}
+
+body {
+ font-family: 'Open Sans', sans-serif
+
+}
+
+.column {
+  float: left;
+  width: 33%;
+  padding: 20px;
+  margin: 1px;
+  text-align: center;
+  
+  }
+
+.flames {
+  float: inherit;
+  width: auto;
+  text-align: center;
+  background-image: url(./images/park.jpg);
+  background-position:center;
+  background-size: cover;
+  background-repeat:no-repeat;
+
+}
+
+.party {
+  padding: 0px;
+  border-radius: 200px;
+  border: 50px;
+  border: solid #048eaa;
+  height: 200px;
+  width: 200px;
+
+
+}
+
+.box1 {
+  background-color: #048eaa;
+  color: #ffffff;
+}
+
+h1 {
+  color: #ffffff;
+  font-style: bold;
+  font-size: 20;
+}
+
+ {
+  border: 1px solid red;
+}
+
+input {
+  background-color:  #75e2e6;
+}
+
+.party1 {
+  width: 60px;
+}
+
+header {
+  background-color: #75e2e6;
+  width: 100%;
+  padding: 9px;
+  height: 78px;
+  border: 4px solid #048eaa;
+}
